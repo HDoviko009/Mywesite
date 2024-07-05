@@ -3,3 +3,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 ## Installation Instructions
 *Enter Username
 *Press Login Button
+### Why choose us
+1. Simple
+2. Secure
+3. Instant
